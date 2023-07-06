@@ -1,0 +1,43 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+.list-container {
+  width: 80%;
+  /* border: 2px solid #00e7ff; */
+  display: flex;
+  flex-direction: column;
+}
+.table-container {
+  list-style-type: none;
+  border: 2px solid #00e7ff;
+  border-radius: 6px;
+  margin: 0px;
+}
+.table-header {
+  display: flex;
+  align-items: center;
+  background-color: #092e33;
+  color: white;
+  height: 50px;
+  width: 100%;
+  padding: 20px;
+  margin: 0px;
+}
+.coin-type {
+  color: white;
+  width: 50%;
+  text-align: left;
+}
+.usd {
+  width: 30%;
+}
+.euro {
+  width: 20%;
+}
+.main-heading {
+  font-family: Roboto;
+  text-align: center;
+  color: white;
+}
+.currency-image {
+  text-align: center;
+}

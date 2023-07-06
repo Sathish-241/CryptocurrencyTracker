@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+.table-row {
+  color: white;
+  font-family: Roboto;
+  display: flex;
+  align-items: center;
+}
+.currency-logo {
+  height: 40px;
+  width: 40px;
+  border: none;
+  border-radius: 50px;
+  margin-left: 20px;
+}
+.coin-logo-container {
+  display: flex;
+  align-items: center;
+  width: 50%;
+}
+.currency-name {
+  margin-left: 20px;
+}
+.usd-value {
+  width: 30%;
+}
+.euro-value {
+  width: 20%;
+}
